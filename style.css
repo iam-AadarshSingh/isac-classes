@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Atkinson Hyperlegible Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+/*----------Home Page----------*/
+.marquee {
+    background-color: black;
+    color: white;
+}
+
+marquee span {
+    padding: 30px 0px;
+}
+
+.navbar-nav li {
+    padding: 0px 50px;
+}
+
+.navigator {
+    margin-top: 25px;
+}
+
+.slider {
+    margin-top: 25px;
+}
+
+.About_us {}
+
+.team {
+    padding: 50px 0px;
+    margin-top: 25px;
+}
+
+.vision {
+    padding: 50px 0px;
+    margin-top: 25px;
+}
+
+.testimonial {
+    text-align: center;
+    padding: 50px 0px;
+    margin-top: 25px;
+}
+
+.footer {
+    text-align: center;
+    padding: 50px 0px;
+    margin-top: 25px;
+}
+
+.footer .row div a {
+    color: gray;
+    text-decoration: none;
+
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 25px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.card {
+    border: none;
+}
+
+.card img {
+    padding: 20px;
+    margin: 15px 0px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.class1_main iframe {
+    padding: 10px 0px;
+    border-radius: 20px;
+}
